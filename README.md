@@ -29,6 +29,7 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 <img width="527" height="120" alt="Screenshot 2026-08-01 224420" src="https://github.com/user-attachments/assets/03d585cf-bae8-4cc8-a32d-bd06767b71d4" />
 <img width="595" height="461" alt="Screenshot 2026-08-01 224359" src="https://github.com/user-attachments/assets/81c990e2-4eb0-4d61-b768-e81aa10ca112" />
 <img width="682" height="182" alt="Screenshot 2026-08-01 224426" src="https://github.com/user-attachments/assets/8f7d6c55-3a2b-4254-b27c-9c8de4772377" />
+
 # Categorical data analysis
 <img width="495" height="462" alt="Screenshot 2026-08-01 224433" src="https://github.com/user-attachments/assets/acb6b447-5d0f-48dc-99ed-dfce8dc29101" />
 
