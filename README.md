@@ -29,10 +29,12 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 <img width="595" height="461" alt="Screenshot 2026-08-01 224359" src="https://github.com/user-attachments/assets/4da6e18d-d4e5-4499-84b0-4bc8c9e709c9" />
 <img width="595" height="461" alt="Screenshot 2026-08-01 224359" src="https://github.com/user-attachments/assets/216dc7b0-3014-4494-a0ea-03b9859d7d94" />
 <img width="682" height="182" alt="Screenshot 2026-08-01 224426" src="https://github.com/user-attachments/assets/5dc27303-e99c-472a-b402-f08f900a7545" />
+
 # Categorical data analysis
 <img width="495" height="462" alt="Screenshot 2026-08-01 224433" src="https://github.com/user-attachments/assets/acb6b447-5d0f-48dc-99ed-dfce8dc29101" />
 
 # Bivariate Analysis
+
 <img width="730" height="571" alt="Screenshot 2026-08-01 224527" src="https://github.com/user-attachments/assets/7dbc5e75-54ec-43c6-9767-8bf6c9d4c278" />
 <img width="858" height="542" alt="Screenshot 2026-08-01 224534" src="https://github.com/user-attachments/assets/d23a20dc-e1eb-413a-ab54-0ae67620c7b2" />
 <img width="782" height="492" alt="Screenshot 2026-08-01 224540" src="https://github.com/user-attachments/assets/5e9ed43d-c2ee-40f8-8997-550bfb1b56c2" />
