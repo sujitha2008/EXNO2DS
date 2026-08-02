@@ -40,7 +40,8 @@ df.info()
 df.describe()
 ```
 
-<img width="933" height="383" alt="image" src="https://github.com/user-attachments/assets/28bb0d2b-bef3-4fd6-bfff-391727730172" />
+<img width="715" height="268" alt="Screenshot 2026-08-02 221225" src="https://github.com/user-attachments/assets/5626e119-e9cb-4ebb-b0b1-a1a1c61a39a9" />
+
 
 ```
 df.shape
