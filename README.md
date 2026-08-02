@@ -54,6 +54,8 @@ df.dtypes
 
 <img width="320" height="233" alt="image" src="https://github.com/user-attachments/assets/7ceed50a-3aaa-46ef-bd90-513996ffac84" />
 
+# Categorical data analysis
+
 
 ```
 df["Survived"].value_counts()
@@ -107,13 +109,10 @@ df.boxplot(column="Age",by="Survived")
 
 <img width="681" height="493" alt="image" src="https://github.com/user-attachments/assets/ba2bff4a-8f3c-48cb-af6a-7bdc01216811" />
 
-
-
-# Categorical data analysis
-
-
-
-
+```
+sns.scatterplot(x=df["Age"],y=df["Fare"])
+```
+<img width="715" height="467" alt="image" src="https://github.com/user-attachments/assets/2583d191-5b1f-4cc0-8875-ab3335608e67" />
 
 # Multivariate Analysis
 
