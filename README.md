@@ -60,18 +60,24 @@ df["Survived"].value_counts()
 ```
 
 <img width="503" height="102" alt="image" src="https://github.com/user-attachments/assets/2b1bf54f-2261-4ac3-86ad-c1237da8d30f" />
+
 ```
 df.nunique()
 ```
+
 <img width="455" height="365" alt="image" src="https://github.com/user-attachments/assets/2748ca28-c3bf-4623-b908-530a2353824f" />
+
 ```
 import seaborn as sns
 sns.countplot(data=df,x="Survived")
 ```
+
 <img width="685" height="472" alt="image" src="https://github.com/user-attachments/assets/5dc117aa-40a3-496f-994c-46a3ba88c9c5" />
+
 ```
 sns.boxplot(data=df,x="Age")
 ```
+
 <img width="688" height="471" alt="image" src="https://github.com/user-attachments/assets/bdd6cf9a-bd55-42af-afe2-ce161dce5002" />
 
 ```
