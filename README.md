@@ -52,11 +52,13 @@ df.shape
 df.dtypes
 ```
 
-<img width="178" height="230" alt="image" src="https://github.com/user-attachments/assets/c5a29edd-b724-4cde-92f6-62282be819df" />
+<img width="320" height="233" alt="image" src="https://github.com/user-attachments/assets/7ceed50a-3aaa-46ef-bd90-513996ffac84" />
+
 
 ```
 df["Survived"].value_counts()
 ```
+
 <img width="503" height="102" alt="image" src="https://github.com/user-attachments/assets/2b1bf54f-2261-4ac3-86ad-c1237da8d30f" />
 ```
 df.nunique()
