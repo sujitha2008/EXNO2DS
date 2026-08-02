@@ -111,6 +111,10 @@ df.boxplot(column="Age",by="Survived")
 
 # Bivariate Analysis
 
+```
+sns.catplot(x='Survived',hue="Gender",data=df,kind='count')
+```
+
 
 
 # Multivariate Analysis
