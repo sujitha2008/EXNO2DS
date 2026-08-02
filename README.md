@@ -115,6 +115,12 @@ sns.scatterplot(x=df["Age"],y=df["Fare"])
 <img width="715" height="467" alt="image" src="https://github.com/user-attachments/assets/2583d191-5b1f-4cc0-8875-ab3335608e67" />
 
 ```
+sns.boxplot(x=df["Survived"],y=df["Fare"])
+```
+
+<img width="737" height="472" alt="image" src="https://github.com/user-attachments/assets/f5398654-e259-46e9-9f20-070a67bf262d" />
+
+```
 sns.barplot(x=df["Survived"],y=df["Fare"])
 ```
 
