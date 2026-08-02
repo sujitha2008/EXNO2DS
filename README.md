@@ -114,6 +114,12 @@ sns.scatterplot(x=df["Age"],y=df["Fare"])
 ```
 <img width="715" height="467" alt="image" src="https://github.com/user-attachments/assets/2583d191-5b1f-4cc0-8875-ab3335608e67" />
 
+```
+sns.barplot(x=df["Survived"],y=df["Fare"])
+```
+
+<img width="693" height="460" alt="image" src="https://github.com/user-attachments/assets/28c14978-b163-4719-b6aa-4fb83277809d" />
+
 # Multivariate Analysis
 
 ```
