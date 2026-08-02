@@ -92,6 +92,10 @@ print(df)
 ```
 <img width="675" height="690" alt="Screenshot 2026-08-02 212211" src="https://github.com/user-attachments/assets/beb5b8d4-24ab-4d32-862b-11bc72408c09" />
 
+
+# Bivariate Analysis
+
+
 ```
 sns.catplot(x='Survived',hue="Gender",data=df,kind='count')
 ```
@@ -108,12 +112,6 @@ df.boxplot(column="Age",by="Survived")
 # Categorical data analysis
 
 
-
-# Bivariate Analysis
-
-```
-sns.catplot(x='Survived',hue="Gender",data=df,kind='count')
-```
 
 
 
