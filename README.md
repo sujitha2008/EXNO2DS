@@ -35,17 +35,23 @@ df.info()
 ```
 
 <img width="417" height="335" alt="image" src="https://github.com/user-attachments/assets/1ff331c3-c9ea-44ce-8fab-0d729cf10e71" />
+
 ```
 df.describe()
 ```
+
 <img width="933" height="383" alt="image" src="https://github.com/user-attachments/assets/28bb0d2b-bef3-4fd6-bfff-391727730172" />
+
 ```
 df.shape
 ```
+
 <img width="190" height="35" alt="image" src="https://github.com/user-attachments/assets/2276b5b4-9eb7-48f2-9aa6-aee8fae4e39e" />
+
 ```
 df.dtypes
 ```
+
 <img width="178" height="230" alt="image" src="https://github.com/user-attachments/assets/c5a29edd-b724-4cde-92f6-62282be819df" />
 
 ```
