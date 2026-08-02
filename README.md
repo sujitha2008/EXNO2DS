@@ -118,4 +118,5 @@ df.boxplot(column="Age",by="Survived")
 # Co-relation
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+
+Successfully performed Exploratory Data Analysis (EDA) by handling missing values, detecting and removing outliers, analyzing categorical and numerical data, and visualizing relationships using countplot, displot, crosstab, and heatmap.
