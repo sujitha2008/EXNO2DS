@@ -29,9 +29,11 @@ df=pd.read_csv("titanic_dataset.csv")
 print(df)
 ```
 <img width="648" height="687" alt="image" src="https://github.com/user-attachments/assets/3323d295-cf33-4c44-97a0-a4d793a11c99" />
+
 ```
 df.info()
 ```
+
 <img width="417" height="335" alt="image" src="https://github.com/user-attachments/assets/1ff331c3-c9ea-44ce-8fab-0d729cf10e71" />
 ```
 df.describe()
