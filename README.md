@@ -115,7 +115,26 @@ df.boxplot(column="Age",by="Survived")
 
 # Multivariate Analysis
 
+```
+sns.boxplot(x="Pclass",y="Age",hue="Gender",data=df)
+```
+
+<img width="692" height="462" alt="image" src="https://github.com/user-attachments/assets/36b5bfe3-e8cd-432c-8e07-6994df224944" />
+
+```
+sns.catplot(data=df,col="Survived",x="Gender",hue="Pclass",kind="count")
+```
+
+<img width="695" height="336" alt="image" src="https://github.com/user-attachments/assets/8402ad11-f6a9-4e9b-9fa8-edbcbd6c8887" />
+
 # Co-relation
+
+```
+sns.heatmap(df.corr(),annot=True)
+```
+
+<img width="712" height="535" alt="image" src="https://github.com/user-attachments/assets/d64e240d-b1a8-44aa-98b0-d71cae9396ce" />
+
 
 # RESULT
 
