@@ -84,17 +84,18 @@ sns.boxplot(data=df,x="Age")
 sns.histplot(data=df,x="Age")
 ```
 
+<img width="696" height="466" alt="Screenshot 2026-08-02 212131" src="https://github.com/user-attachments/assets/7dc16e8c-3859-4971-9905-6af5f0d2ec1d" />
 
 ```
 df.rename(columns={'Sex':'Gender'},inplace=True)
 print(df)
 ```
-
+<img width="675" height="690" alt="Screenshot 2026-08-02 212211" src="https://github.com/user-attachments/assets/beb5b8d4-24ab-4d32-862b-11bc72408c09" />
 
 ```
 sns.catplot(x='Survived',hue="Gender",data=df,kind='count')
 ```
-
+<img width="685" height="531" alt="Screenshot 2026-08-02 212244" src="https://github.com/user-attachments/assets/10016e64-6733-4dff-92ce-f6ce7b429659" />
 
 ```
 df.boxplot(column="Age",by="Survived")
